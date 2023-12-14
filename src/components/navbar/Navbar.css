@@ -1,0 +1,8 @@
+.nav{
+    height: 2rem;
+    outline: 1px dashed grey;
+    margin: 0.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
